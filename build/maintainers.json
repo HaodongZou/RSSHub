@@ -118,14 +118,18 @@
   "/1point3acres/user/:id/threads": [
     "Maecenas"
   ],
+  "/2023game/:category?/:tab?": [
+    "xzzpig"
+  ],
   "/2cycd/:fid/:sort?": [
     "shelken"
   ],
   "/36kr/hot-list/:category?": [
     "nczitzk"
   ],
-  "/36kr/{.*}?": [
-    "nczitzk"
+  "/36kr/:category/:subCategory?/:keyword?": [
+    "nczitzk",
+    "fashioncj"
   ],
   "/3dmgame/:name/:type?": [
     "sinchang",
@@ -148,7 +152,7 @@
   "/4gamers/topic/:topic": [
     "bestpika"
   ],
-  "/4ksj/forum/:id?": [
+  "/4ksj/:id?": [
     "nczitzk"
   ],
   "/500px/tribe/set/:id": [
@@ -252,6 +256,12 @@
   ],
   "/aeon/:type": [
     "emdoe"
+  ],
+  "/afdian/dynamic/:uid?": [
+    "sanmmm"
+  ],
+  "/afdian/explore/:type/:category?": [
+    "sanmmm"
   ],
   "/agefans/detail/:id": [
     "s2marine"
@@ -1488,6 +1498,10 @@
   "/dorohedoro/news": [
     "nczitzk"
   ],
+  "/douban/book/latest/:type?": [
+    "fengkx",
+    "lyqluis"
+  ],
   "/douban/book/rank/:type?": [
     "xyqfer",
     "queensferryme"
@@ -1532,9 +1546,6 @@
   ],
   "/douban/movie/later": [
     "DIYgod"
-  ],
-  "/douban/book/latest": [
-    "fengkx"
   ],
   "/douban/music/latest/:area?": [
     "fengkx",
@@ -2854,6 +2865,11 @@
   "/informs/:category?": [
     "Fatpandac"
   ],
+  "/infzm/:id": [
+    "KarasuShin",
+    "ranpox",
+    "xyqfer"
+  ],
   "/inoreader/html_clip/:user/:tag": [],
   "/inoreader/rss/:user/:tag": [
     "EthanWng97"
@@ -3111,6 +3127,9 @@
     "nczitzk"
   ],
   "/kantarworldpanel/:region?/:category{.+}?": [],
+  "/kaopu/news/:language?": [
+    "fashioncj"
+  ],
   "/kbs/news/:category?/:language?": [
     "nczitzk"
   ],
@@ -3287,6 +3306,10 @@
   ],
   "/loltw/news/:category?": [
     "hoilc"
+  ],
+  "/loongarch/post/:type?": [
+    "ladeng07",
+    "3401797899"
   ],
   "/lovelive-anime/news/:option?": [
     "axojhf"
@@ -4038,6 +4061,9 @@
   "/otobanana/user/:id": [
     "TonyRL"
   ],
+  "/ouc/hqsz": [
+    "ladeng07"
+  ],
   "/ouc/it/postgraduate": [
     "shengmaosu"
   ],
@@ -4276,8 +4302,9 @@
   "/postman/release-notes": [
     "nczitzk"
   ],
-  "/priconne-redive/news": [
-    "SayaSS"
+  "/priconne-redive/news/:server?": [
+    "SayaSS",
+    "frankcwl"
   ],
   "/producthunt/today": [
     "miaoyafeng",
@@ -5603,6 +5630,9 @@
   "/urbandictionary/random": [
     "TonyRL"
   ],
+  "/usenix/loginonline": [
+    "wu-yufei"
+  ],
   "/usenix/usenix-security-sympoium": [
     "ZeddYu"
   ],
@@ -6343,6 +6373,9 @@
   ],
   "/zju/physics/:type": [
     "Caicailiushui"
+  ],
+  "/zjut/da/:type": [
+    "yikZero"
   ],
   "/zjuvag/blog": [
     "KaiyoungYu"
